@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         int[][] votesTable =
                 { {12, 13, 14, 10, 15, 16}, // candidate 0
                         { 5,  2,  6,  8,  4,  3}, // candidate 1
