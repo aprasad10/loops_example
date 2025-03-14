@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
 
         int[][] votesTable =
                 { {12, 13, 14, 10, 15, 16}, // candidate 0
